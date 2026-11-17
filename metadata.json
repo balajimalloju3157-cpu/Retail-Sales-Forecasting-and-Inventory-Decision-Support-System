@@ -1,0 +1,8 @@
+{
+  "name": "RetailIQ — Retail Sales Forecasting & Inventory Decision Support",
+  "description": "A retail analytics, demand forecasting, and inventory decision support dashboard for small and medium-sized retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
